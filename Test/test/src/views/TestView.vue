@@ -1,7 +1,7 @@
 
 <template>
     <div class="about">
-      <h1>测试页面</h1>
+      <h1>测试页面啊</h1>
       <button  @click="test">button1</button>
       <div>{{info}}</div>
     </div>
